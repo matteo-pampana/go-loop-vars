@@ -1,0 +1,1 @@
+docker run --rm -v "$PWD":/app -w /app golang:1.21.8-alpine3.19 go run main.go
